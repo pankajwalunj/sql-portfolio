@@ -1,10 +1,6 @@
 # 🗄️ SQL Analytics Portfolio
 
-**Pankaj Walunj** | Aspiring Data Analyst | MySQL
-
 A collection of end-to-end SQL projects analyzing real-world business data using MySQL. Each project solves actual business questions using JOINs, subqueries, aggregations, window functions, and CTEs.
-
----
 
 ## 📁 Projects
 
